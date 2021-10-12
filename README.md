@@ -94,7 +94,7 @@ This is o-reo's visualizer, check his work: <a href="https://github.com/o-reo/pu
 <a href="https://github.com/LoisDuplain/42cursus/blob/master/push_swap/push_swap.pdf">Subject</a>
 <p align="left">
   Mark:
-  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/42cursus-push_swap"/>
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/push_swap"/>
 </p>
 
 <h2 align="left">⚖️ Copyright</h2>
