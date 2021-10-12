@@ -1,0 +1,9 @@
+INCLUDES += includes/pushswap.h
+INCLUDES += includes/pushswap_checker_func.h
+INCLUDES += includes/pushswap_common_action_func.h
+INCLUDES += includes/pushswap_common_container_func.h
+INCLUDES += includes/pushswap_common_container_struct.h
+INCLUDES += includes/pushswap_common_func.h
+INCLUDES += includes/pushswap_common_stack_elem_func.h
+INCLUDES += includes/pushswap_common_stack_elem_struct.h
+INCLUDES += includes/pushswap_push_swap_func.h
